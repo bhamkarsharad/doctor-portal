@@ -7,7 +7,10 @@ public class CustomerBean {
 	private String custLname;
 	private int age;
 	private double custBalance;
+	
 	public int getCustId() {
+		
+		System.out.println("qwertyuiasdfgh");
 		return custId;
 	}
 	public void setCustId(int custId) {
