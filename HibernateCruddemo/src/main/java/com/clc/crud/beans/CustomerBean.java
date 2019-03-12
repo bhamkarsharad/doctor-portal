@@ -11,6 +11,7 @@ public class CustomerBean {
 	public int getCustId() {
 		
 		System.out.println("qwertyuiasdfgh");
+		System.out.println("asdfghjkl");
 		return custId;
 	}
 	public void setCustId(int custId) {
